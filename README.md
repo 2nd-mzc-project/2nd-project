@@ -1,2 +1,2 @@
 # 2nd-project
-mzc 2차 프로젝트 팀
+mzc 2차 프로젝트 팀 앙여
